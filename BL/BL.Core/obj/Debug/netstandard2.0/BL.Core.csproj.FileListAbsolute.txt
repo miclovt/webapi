@@ -1,0 +1,13 @@
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/BL.Core.deps.json
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/BL.Core.dll
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/BL.Core.pdb
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/BL.Model.dll
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/dao.dll
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/dao.pdb
+/home/miclovt/3tierv2/BL/BL.Core/bin/Debug/netstandard2.0/BL.Model.pdb
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.csprojAssemblyReference.cache
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.AssemblyInfoInputs.cache
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.AssemblyInfo.cs
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.csproj.CopyComplete
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.dll
+/home/miclovt/3tierv2/BL/BL.Core/obj/Debug/netstandard2.0/BL.Core.pdb

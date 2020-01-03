@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/miclovt/3tierv2/BL/BL.Core/BL.Core.csproj": {}
+  },
+  "projects": {
+    "/home/miclovt/3tierv2/BL/BL.Core/BL.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/miclovt/3tierv2/BL/BL.Core/BL.Core.csproj",
+        "projectName": "BL.Core",
+        "projectPath": "/home/miclovt/3tierv2/BL/BL.Core/BL.Core.csproj",
+        "packagesPath": "/home/miclovt/.nuget/packages/",
+        "outputPath": "/home/miclovt/3tierv2/BL/BL.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/miclovt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/miclovt/3tierv2/BL/BL.Model/BL.Model.csproj": {
+                "projectPath": "/home/miclovt/3tierv2/BL/BL.Model/BL.Model.csproj"
+              },
+              "/home/miclovt/3tierv2/dao/dao.csproj": {
+                "projectPath": "/home/miclovt/3tierv2/dao/dao.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/miclovt/3tierv2/BL/BL.Model/BL.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/miclovt/3tierv2/BL/BL.Model/BL.Model.csproj",
+        "projectName": "BL.Model",
+        "projectPath": "/home/miclovt/3tierv2/BL/BL.Model/BL.Model.csproj",
+        "packagesPath": "/home/miclovt/.nuget/packages/",
+        "outputPath": "/home/miclovt/3tierv2/BL/BL.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/miclovt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/miclovt/3tierv2/dao/dao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/miclovt/3tierv2/dao/dao.csproj",
+        "projectName": "dao",
+        "projectPath": "/home/miclovt/3tierv2/dao/dao.csproj",
+        "packagesPath": "/home/miclovt/.nuget/packages/",
+        "outputPath": "/home/miclovt/3tierv2/dao/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/miclovt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

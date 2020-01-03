@@ -1,0 +1,8 @@
+/home/miclovt/3tierv2/dao/bin/Debug/netstandard2.0/dao.deps.json
+/home/miclovt/3tierv2/dao/bin/Debug/netstandard2.0/dao.dll
+/home/miclovt/3tierv2/dao/bin/Debug/netstandard2.0/dao.pdb
+/home/miclovt/3tierv2/dao/obj/Debug/netstandard2.0/dao.csprojAssemblyReference.cache
+/home/miclovt/3tierv2/dao/obj/Debug/netstandard2.0/dao.AssemblyInfoInputs.cache
+/home/miclovt/3tierv2/dao/obj/Debug/netstandard2.0/dao.AssemblyInfo.cs
+/home/miclovt/3tierv2/dao/obj/Debug/netstandard2.0/dao.dll
+/home/miclovt/3tierv2/dao/obj/Debug/netstandard2.0/dao.pdb

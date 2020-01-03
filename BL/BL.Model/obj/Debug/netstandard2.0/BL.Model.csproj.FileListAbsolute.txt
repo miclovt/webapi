@@ -1,0 +1,8 @@
+/home/miclovt/3tierv2/BL/BL.Model/bin/Debug/netstandard2.0/BL.Model.deps.json
+/home/miclovt/3tierv2/BL/BL.Model/bin/Debug/netstandard2.0/BL.Model.dll
+/home/miclovt/3tierv2/BL/BL.Model/bin/Debug/netstandard2.0/BL.Model.pdb
+/home/miclovt/3tierv2/BL/BL.Model/obj/Debug/netstandard2.0/BL.Model.csprojAssemblyReference.cache
+/home/miclovt/3tierv2/BL/BL.Model/obj/Debug/netstandard2.0/BL.Model.AssemblyInfoInputs.cache
+/home/miclovt/3tierv2/BL/BL.Model/obj/Debug/netstandard2.0/BL.Model.AssemblyInfo.cs
+/home/miclovt/3tierv2/BL/BL.Model/obj/Debug/netstandard2.0/BL.Model.dll
+/home/miclovt/3tierv2/BL/BL.Model/obj/Debug/netstandard2.0/BL.Model.pdb
